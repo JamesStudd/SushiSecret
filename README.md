@@ -1,6 +1,6 @@
 # SushiSecret
 
-[Click here to play it!](http://www.jamesstudd.com/SushiSecret/)
+https://jamesstudd.github.io/SushiSecret/
 
 Sushi Secret is a game created by <a href="https://github.com/JakeMLyons"> Jake Lyons </a> and myself as part of <a href="https://ldjam.com/"> Ludum Dare. </a><br>
 LudumDare40 had the theme of "The more you have, the worse it is.". We were inspired by an old <a href="https://www.youtube.com/watch?v=UcyE-5dv1Kc">Drake & Josh scene</a>,<br>
